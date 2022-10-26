@@ -10,7 +10,7 @@ public class Constructor4 {
 		System.out.println("car model is "+num);
 	}
 	public Constructor4() {
-		System.out.println("Product details are ");
+		System.out.println("Product details are as below");
 	}
 
 }
