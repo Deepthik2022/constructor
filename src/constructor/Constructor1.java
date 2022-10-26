@@ -10,7 +10,7 @@ public class Constructor1 {
 	}
 	public Constructor1() {
 		this(25);
-		System.out.println("employee works at Infosys");
+		System.out.println("employee works at Wipro");
 
 		
 
