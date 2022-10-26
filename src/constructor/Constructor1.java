@@ -10,7 +10,9 @@ public class Constructor1 {
 	}
 	public Constructor1() {
 		this(25);
-		System.out.println("employee works at Dell");
+		System.out.println("employee works at Wipro");
+
+		
 
 }
 	public static void main(String[] args) {
