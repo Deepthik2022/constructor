@@ -10,7 +10,11 @@ public class Constructor1 {
 	}
 	public Constructor1() {
 		this(25);
+<<<<<<< HEAD
 		System.out.println("employee works at Infosys");
+=======
+		System.out.println("employee works at Dell");
+>>>>>>> fde2035fcfed39211ec8f0556fb60715701f833f
 
 }
 	public static void main(String[] args) {
